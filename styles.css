@@ -6,10 +6,14 @@
 }
 .main-heading{
   color: red;  
-  font-style: "Serif";
+  font-family: "Serif";
   text-align: center;
   font-size: 40px;
 }
 .content{
   padding: 5px;
+}
+.content-line{
+  font-size: 20px;
+  font-family: "Serif";
 }
