@@ -4,6 +4,8 @@
   width: 100vw;
 }
 .main-heading{
-  color: "MediumSeaGreen";
+  color: "MediumSeaGreen";  
+  font-style: "Serif";
+  text-align: center;
   font-size: 40px;
 }
