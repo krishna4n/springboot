@@ -2,6 +2,8 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+theme:            Hyde
+
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
